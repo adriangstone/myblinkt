@@ -1,3 +1,5 @@
+# Inspired by the police lights on the TV programme Police Intercepters
+
 #!/usr/bin/env python
 
 import time

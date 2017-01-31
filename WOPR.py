@@ -1,3 +1,5 @@
+# Inspired by the War Operation Planned Response (WOPR) from the movie Wargames
+
 #!/usr/bin/env python
 
 import random

@@ -1,3 +1,5 @@
+# Inspired by the Knight Industries Two Thousand car from Knight Rider
+
 #!/usr/bin/env python
 
 import math
