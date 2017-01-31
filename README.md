@@ -1,1 +1,1 @@
-Shameless "refactering" of Pimoroni code for my own tinkering
+Shameless "refactoring" of Pimoroni code for my own tinkering
