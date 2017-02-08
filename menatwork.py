@@ -17,12 +17,12 @@ def show_all(state):
 
 def show_bank1(state):
     for i in range(4):
-        set_pixel(i, 255, 165, 0) 
+        set_pixel(i, 250, 50, 0) 
     show()
 
 def show_bank2(state):
     for i in range(4):
-        set_pixel(i+4, 255, 165, 0)
+        set_pixel(i+4, 250, 50, 0)
     show()
 
 def flash_bank1():
