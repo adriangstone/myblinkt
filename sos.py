@@ -29,7 +29,7 @@ def space():
     time.sleep(0.2)
 
 #0 is a space, 1 is a dot and 2 is a dash
-morse = '111022201110'
+morse = '11102220111000'
 
 while True:
     for m in morse:
